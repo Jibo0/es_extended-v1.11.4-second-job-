@@ -2,7 +2,7 @@
 
 ## Legal
 
-es_extended
+es_extended with second job + sql
 
 Copyright (C) 2015-2024 Jérémie N'gadi
 
