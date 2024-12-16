@@ -174,7 +174,7 @@ function loadESXPlayer(identifier, playerId, isNew)
     end
 
     local jobObject, gradeObject = ESX.Jobs[job], ESX.Jobs[job].grades[grade]
-    jobObject2, gradeObject2 = ESX.Jobs[job2], ESX.Jobs[job2].grades[grade2]
+    local jobObject2, gradeObject2 = ESX.Jobs[job2], ESX.Jobs[job2].grades[grade2]
 
     userData.job = {
         id = jobObject.id,
